@@ -11,6 +11,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
 
+[![My Skills](https://skillicons.dev/icons?i=java,js,vue,html,css,django,docker,flask,git,go,idea)](https://skillicons.dev)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E5%BE%85%E6%88%91%E4%BB%A3%E7%A0%81%E7%BC%96%E6%88%90%EF%BC%8C%E5%9B%9B%E6%B5%B7%E4%B8%BA%E5%AE%B6%E5%8F%AF%E5%A5%BD.)](https://git.io/typing-svg)
 
 ### Hi there 👋
