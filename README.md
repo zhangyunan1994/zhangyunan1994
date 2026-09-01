@@ -2,11 +2,7 @@
   👋 Hi there, I'm yunan.zhang
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-China-37A6FF?style=for-the-badge&labelColor=2d2d2d" alt="location"/>
-  <img src="https://komarev.com/ghpvc/?username=zhangyunan1994&color=7C3AED&style=for-the-badge&label=Visitors&labelColor=2d2d2d" alt="visitors"/>
-</p>
-
+![](a2.jpg)
 ---
 
 ## 🙋‍♂️ About Me
